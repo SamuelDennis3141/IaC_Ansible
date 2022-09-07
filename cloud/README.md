@@ -1,13 +1,5 @@
 # Ansible on AWS
 
-Steps:
-- Create Controller node on AWS
-- Provision the controller node
-- Create keys
-- Create ec2 agent nodes
-- change hosts file
-- deploy app
-
 ## Creating Controller Node on AWS
 
 This can be created by creating an EC2 instances and running the appropriate provisions inside the instance.
