@@ -42,7 +42,7 @@ secret_key_id: xxxx
 NOTE to exit .vi files enter `esc wq! enter`
 
 ## Create EC2 Instances (playbook)
-
+```
 # AWS playbook
 ---
 
@@ -125,6 +125,7 @@ NOTE to exit .vi files enter `esc wq! enter`
              Name: eng122_sam_db_node
 
       tags: ['never', 'create_ec2']
+```
 
 ## Alter Hosts Folder
 
